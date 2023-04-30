@@ -82,3 +82,19 @@ a.desc:after {
 .nav > li > form > button.logout:focus {
     outline: none;
 }
+
+#signup-form {
+    width: 320px;
+    margin: 0 auto;
+}
+
+#signup-form .offset-lg-1 {
+    margin: 10px 0 15px;
+    width: 100%
+}
+.server_response_error-0 {
+    color: green;
+}
+.server_response_error-1 {
+    color: red;
+}
